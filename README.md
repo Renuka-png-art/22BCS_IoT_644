@@ -10,6 +10,19 @@ https://leetcode.com/problems/kth-largest-element-in-an-array/<br>
 https://leetcode.com/problems/search-a-2d-matrix-ii/<br>
 https://leetcode.com/problems/median-of-two-sorted-arrays/<br>
 
+# Assignment-05
+# Trees
+Maximum Depth of Binary Tree : https://leetcode.com/problems/maximum-depth-of-binary-tree/<br>
+Kth Smallest element in a BST :https://leetcode.com/problems/kth-smallest-element-in-a-bst/<br>
+
+
+
+
+
+
+
+
+
 
 
 
