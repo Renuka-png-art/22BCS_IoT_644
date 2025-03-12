@@ -18,8 +18,8 @@ Kth Smallest element in a BST :https://leetcode.com/problems/kth-smallest-elemen
 # Assignment-06
 # Dynamic Programming
 Maximum Subarray-https://leetcode.com/problems/maximum-subarray/   </br>
-Unique Paths- https://leetcode.com/problems/unique-paths/
-Maximum Product Subarray- https://leetcode.com/problems/maximum-product-subarray/
+Unique Paths- https://leetcode.com/problems/unique-paths/ </br>
+Maximum Product Subarray- https://leetcode.com/problems/maximum-product-subarray/</br>
 
 
 
